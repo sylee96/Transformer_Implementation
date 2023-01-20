@@ -9,5 +9,16 @@ This code is for a paper named 'attention is all you need' released in 2017. Thi
 * paper link : https://arxiv.org/pdf/1706.03762.pdf
 -------------------
 
+# Configuration of Transformer
+* [Embedding Layer](#Embedding_Layer)
+* [Position_Encoding](#Position_Encoding)
+* [EncoderBlock](#EncoderBlock)
+  * [MultiHeadAttentionLayer](#MultiHeadAttentionLayer)
+  * [PositionwiseFeedForwardLayer](#PositionwiseFeedForwardLayer)
+* [DecoderBlock](#DecoderBlock)
+  * [MaskedMultiHeadAttentionLayer](#MaskedMultiHeadAttentionLayer)
+  * [Encoder-Decoder MultiHeadAttentionLayer](#Encoder-Decoder MultiHeadAttentionLayer)
+  * [PositionwiseFeedForwardLayer](#PositionwiseFeedForwardLayer)
+
 ## Code References
 https://nlp.seas.harvard.edu/2018/04/03/attention.html
