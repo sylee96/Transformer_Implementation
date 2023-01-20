@@ -17,7 +17,7 @@ This code is for a paper named 'attention is all you need' released in 2017. Thi
   * [PositionwiseFeedForwardLayer](#PositionwiseFeedForwardLayer)
 * [DecoderBlock](#DecoderBlock)
   * [MaskedMultiHeadAttentionLayer](#MaskedMultiHeadAttentionLayer)
-  * [Encoder-Decoder MultiHeadAttentionLayer](#Encoder-Decoder MultiHeadAttentionLayer)
+  * [Encoder-Decoder_MultiHeadAttentionLayer](#Encoder-Decoder_MultiHeadAttentionLayer)
   * [PositionwiseFeedForwardLayer](#PositionwiseFeedForwardLayer)
 
 ## Code References
